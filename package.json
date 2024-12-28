@@ -1,0 +1,19 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "first applications",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishabh Mishra",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabhmiishra/Intro-to-Node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rishabhmiishra/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/rishabhmiishra/Intro-to-Node#readme"
+}
