@@ -1,6 +1,6 @@
 {
-  "name": "start",
-  "version": "1.0.0",
+  "name": "into",
+  "version": "10.15.0",
   "description": "first applications",
   "main": "hello.js",
   "scripts": {
